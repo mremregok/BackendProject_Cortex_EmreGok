@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\bin\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.exe
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\bin\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.deps.json
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\bin\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.runtimeconfig.json
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\bin\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\bin\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.dll
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\bin\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.pdb
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\obj\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\obj\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\obj\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\obj\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\obj\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.dll
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\obj\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.pdb
+C:\Users\Asus\source\repos\BackendProject_Cortex_EmreGok\BackendProject_Cortex_EmreGok\obj\Debug\netcoreapp3.1\BackendProject_Cortex_EmreGok.genruntimeconfig.cache
